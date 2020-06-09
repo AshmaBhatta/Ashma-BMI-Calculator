@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ashma BMI Calculator</string>
+    <string name="underweight">Under Weight</string>
+    <string name="normal_weight">Normal Weight</string>
+    <string name="overweight">Over Weight</string>
+    <string name="obese_class_i">Please Enter Correct Value</string>
+    <string name="calculateBMI">Calculate BMI</string>
+</resources>
